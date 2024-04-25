@@ -16,23 +16,9 @@
     - [Schrute](https://github.com/bradlindblad/schrute 
 ) 
 
-
-## Section 2: Documentation Map
-Project Structure
-```
-Project
-├── DATA
-│   ├── appendix.md
-│   └── theoffice.rda
-├── LICENSE
-├── OUTPUT
-│   └── placeholder
-├── README.md
-└── SCRIPTS
-    └── DS4002_Analysis.Rmd
 ```
 
-## Section 3: Reproducing
+## Section 2: Reproducing Analysis
 
 Before starting ensure that you have all the required software installed as outlined in [Section 1](#section-1:-software-and-platform). We also
 encourage use of either Mac, Windows or Ubuntu, as that is what the analysis was tested on, although other operating systems may work. 
